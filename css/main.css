@@ -532,4 +532,15 @@ input {
         width: 400px;
         height: 400px;
     }
+    .subscribe {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .subscribe-form {
+        width: 500px;
+    }
+    .input {
+        width: 450px;
+    }
 }
